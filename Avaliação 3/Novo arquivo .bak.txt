@@ -1,0 +1,1 @@
+Criei um arquivo .bak novo pois tive que fazer alterações no banco de dados para se adequar ao seu projeto e o da Ana também
